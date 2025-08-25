@@ -9,10 +9,10 @@
 <h3 align="center">A passionate Quality Assurance</h3>
 
 <p align="center">
-  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/github/followers/tuusuario?label=GitHub&style=social" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.tuportafolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
+  <a href="https://["(https://github.com/JuanaEF])><img src="https://img.shields.io/github/followers/tuusuario?label=GitHub&style=social" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
